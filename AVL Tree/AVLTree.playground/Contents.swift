@@ -30,3 +30,4 @@ tree.delete(key: 2)
 tree.delete(key: 1)
 tree.delete(key: 4)
 tree.delete(key: 3)
+
